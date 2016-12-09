@@ -11,10 +11,14 @@ Dota_2 = 3
 
 
 Print "What game do you want to list?"
-while Game_selector = 
 Print "Team Fortress 2 = 1, Counter Strike: Global Offensive = 2, Dota 2 = 3"
- i=input("")
-
-Game_selector = int(i)
+Game_selector = input()
+if Game_selector == 1
+ elif Game_selector == 2
+ elif Game_selector == 3
+ elif Game_selector <1
+  print("Please choose a listed game")
+ else Game_selector >3
+  print("Please choose a listed game")
 
 page = urllib.request.urlopen("")
