@@ -18,4 +18,4 @@ elif Game_selector == "3":
   import Dota2_SCM
 
 
-page = urllib.request.urlopen("")
+
