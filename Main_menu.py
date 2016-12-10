@@ -1,5 +1,5 @@
-#Used to pull prices from the Steam Community Market
-#Code is very messy and shitty, will fix later
+#Main menu that selects the game that you want to pull prices from
+#Working on TF2 first since it's my favorite game and I understand TF2's market the most
 Team_Fortress_2 = 1
 Counter_Strike_Global_Offensive = 2
 Dota_2 = 3
