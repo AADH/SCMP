@@ -7,7 +7,7 @@ Dota_2 = 3
 print ("What game do you want to list?")
 print ("Team Fortress 2 = 1, Counter Strike: Global Offensive = 2, Dota 2 = 3")
 Game_selector = input()
-if Game_selector == "1":
+if Game_selector == "1": #will add a loop here just in case you enter the wrong number and don't want to run the module again
  import TF2_SCM
 elif Game_selector == "2":
   import CSGO_SCM
