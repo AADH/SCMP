@@ -16,6 +16,4 @@ elif Game_selector == "2":
   import CSGO_SCM
 elif Game_selector == "3":
   import Dota2_SCM
-
-
-
+else print("Please select a game listed above")
